@@ -1,3 +1,5 @@
 Another chapter added directly to the main branch
 
 This the changes done by an another account
+
+Some more edits for commits
